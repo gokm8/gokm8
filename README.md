@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hej+%F0%9F%91%8B%2C+jeg+er+G%C3%B8kmen+%C3%98zbayir;Software+Engineer+fra+Danmark;Specialiseret+i+Next.js+%26+TypeScript;Bygger+moderne+web+applikationer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+G%C3%B8kmen+%C3%98zbayir;Software+Engineer+from+Denmark;Specialized+in+Next.js+%26+TypeScript;Building+modern+web+applications" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,15 +9,15 @@
   <img src="https://img.shields.io/github/followers/gokm8?label=Followers&style=for-the-badge&color=6366f1" alt="gokm8" />
 </div>
 
-## 🚀 Om mig
+## 🚀 About Me
 
-- 🎓 **Studerer** Software Technology på Syddansk Universitet (2022-2026)
-- 💼 **Arbejder på** [TeoriOnline](https://www.teorionline.dk) 
-- 🌱 **Lærer** primært Next.js og moderne web teknologier
-- 🎯 **Fokus** på at bygge skalerbare og brugervenlige applikationer
-- 📍 **Baseret i** Danmark
+- 🎓 **Studying** Software Technology at University of Southern Denmark (2022-2026)
+- 💼 **Working on** [TeoriOnline](https://www.teorionline.dk) 
+- 🌱 **Learning** primarily Next.js and modern web technologies
+- 🎯 **Focused on** building scalable and user-friendly applications
+- 📍 **Based in** Denmark
 
-## 🛠️ Teknologier & Værktøjer
+## 🛠️ Technologies & Tools
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,25 +45,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Nylige Projekter
-
-### 💒 Wedding Photo Sharing (ayserenas.dk)
-- **Teknologi:** Next.js, TypeScript, PostgreSQL, Prisma, Vercel
-- **Beskrivelse:** Custom site med QR-koder på borde til bryllupsfoto deling
-- **Link:** [ayserenas.dk](https://ayserenas.dk) | [GitHub](https://github.com/gokm8/qr-wedding-snap)
-
-## 📊 GitHub Statistikker
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokm8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokm8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokm8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🤝 Kontakt
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="mailto:gozbayir@hotmail.com">
