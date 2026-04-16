@@ -12,10 +12,9 @@
 ## 🚀 About Me
 
 - 🎓 **BEng in Software Technology** from University of Southern Denmark (2022–2026)
-- 💼 **Founder & Developer** of [TeoriOnline](https://www.teorionline.dk) — Danish driving theory platform with 200+ users
-- 🔧 **Currently building** [D&G Auto](https://dg-auto.dk) and [Parfume Huset](https://parfumehuset.dk)
-- 🔍 **Open to opportunities** in Data Engineering, AI Engineering, and Software Development
-- 🌱 **Exploring** Microsoft Fabric, Databricks, and LLM-powered applications
+- 💼 **Founder & Developer** of [TeoriOnline](https://www.teorionline.dk) - Danish driving theory platform with daily active users
+- 🔍 **Open to opportunities** in Software Development. Data Engineering, and AI Engineering
+- 🌱 **Exploring** Azure, Microsoft Fabric, Databricks, and LLM-powered applications
 - 📍 **Based in** Copenhagen, Denmark
 
 ## 🛠️ Tech Stack
