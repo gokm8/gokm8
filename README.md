@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+G%C3%B8kmen+%C3%98zbayir;Software+Engineer+from+Denmark;Specialized+in+Next.js+%26+TypeScript;Building+modern+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+G%C3%B8kmen+%C3%98zbayir;Software+Engineer+from+Denmark;Data+%26+AI+Engineering+Enthusiast;Building+modern+web+applications" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,11 +11,36 @@
 
 ## 🚀 About Me
 
-- 🎓 **Studying** Software Technology at University of Southern Denmark (2022-2026)
-- 💼 **Working on** [TeoriOnline](https://www.teorionline.dk) 
-- 🌱 **Learning** primarily Next.js and modern web technologies
-- 🎯 **Focused on** building scalable and user-friendly applications
-- 📍 **Based in** Denmark
+- 🎓 **BEng in Software Technology** from University of Southern Denmark (2022–2026)
+- 💼 **Founder & Developer** of [TeoriOnline](https://www.teorionline.dk) — Danish driving theory platform with 200+ users
+- 🔧 **Currently building** [D&G Auto](https://dg-auto.dk) and [Parfume Huset](https://parfumehuset.dk)
+- 🔍 **Open to opportunities** in Data Engineering, AI Engineering, and Software Development
+- 🌱 **Exploring** Microsoft Fabric, Databricks, and LLM-powered applications
+- 📍 **Based in** Copenhagen, Denmark
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokm8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gokm8&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+</div>
 
 ## 🤝 Connect With Me
 
