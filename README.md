@@ -2,7 +2,7 @@
 
 Software Engineer based in Copenhagen, Denmark.
 
-BEng in Software Technology from University of Southern Denmark (2022–2026). Currently building [TeoriOnline](https://www.teorionline.dk), a Danish driving theory platform, and open to opportunities in software development, data engineering, and AI.
+BEng in Software Technology from University of Southern Denmark (2022–2026). Currently building [TeoriOnline](https://www.teorionline.dk), a Danish driving theory e-learning platform, and open to opportunities in software development, data engineering, and AI.
 
 **Stack:** TypeScript · Next.js · React · Node.js · C# / .NET · PostgreSQL · Azure
 
